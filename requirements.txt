@@ -1,0 +1,5 @@
+fastai
+fastcore
+fastdownload
+Pillow
+botocore<1.22.9
