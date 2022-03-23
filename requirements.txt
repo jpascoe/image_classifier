@@ -1,5 +1,6 @@
+botocore<1.22.9
 fastai
 fastcore
 fastdownload
 Pillow
-botocore<1.22.9
+requests
