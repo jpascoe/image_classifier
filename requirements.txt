@@ -1,5 +1,9 @@
 fastai
 fastcore
 fastdownload
+IPython
+ipywidgets
 Pillow
 requests
+torch
+torchvision
