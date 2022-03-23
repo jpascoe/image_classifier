@@ -1,4 +1,3 @@
-botocore<1.22.9
 fastai
 fastcore
 fastdownload
